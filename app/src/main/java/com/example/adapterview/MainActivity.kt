@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         //앱 프로그래밍 시간
         //Git-hub 업로딩
         //수정 업로딩
+        //재업로딩
     }
 }
